@@ -53,3 +53,9 @@ body {
     margin: 0;
     font-size: 1rem;
 }
+
+.candy {
+    width: 300px;
+    margin-left: 0;
+    margin-right: 0;
+}
