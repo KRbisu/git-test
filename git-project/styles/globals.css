@@ -59,3 +59,17 @@ body {
     margin-left: 0;
     margin-right: 0;
 }
+
+.circle {
+    background-color: var(--primary-color);
+    border-radius: 50%;
+    display: flex;
+    width: 666px;
+}
+
+@media screen and (max-width: 768px) {
+    .candy {
+        width: 2000px;
+    }
+    
+}
